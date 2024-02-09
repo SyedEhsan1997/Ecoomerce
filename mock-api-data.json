@@ -1,0 +1,153 @@
+{
+  "user": [
+    {
+      "name": "Ehsan Shah",
+      "PhnNumber": "123456789",
+      "age": "22",
+      "dob": "2002-04-29",
+      "email": "test@gmail.com",
+      "password": "159753",
+      "address": {
+        "addLine1": "District",
+        "addLine2": "Full Address",
+        "country": "Pakistan",
+        "city": "lahore",
+        "state": "Punjab"
+      },
+      "gender": "Male",
+      "uploadPhoto": "ehsan.png",
+      "aboutYou": "I am Programer",
+      "agreetc": true,
+      "role": "admin"
+    },
+    {
+      "id": "a79f",
+      "name": "ehsan",
+      "age": 26,
+      "dob": "1997-04-29",
+      "email": "kehsan13@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "Street Mohala",
+        "addLine2": "Above Same",
+        "city": "Lahore",
+        "state": "..."
+      },
+      "phnNumber": "+923096038939",
+      "password": "Ehsan",
+      "uploadPhoto": "C:\\fakepath\\Black T Shirt.webp",
+      "agreetc": true,
+      "role": "Seller"
+    },
+    {
+      "id": "8a04",
+      "name": "SyedEhsan",
+      "age": 26,
+      "dob": "1997-04-29",
+      "email": "ehsan@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "Street Lahore",
+        "addLine2": "House Lahore",
+        "city": "Lahore",
+        "state": "..."
+      },
+      "phnNumber": "+923096038939",
+      "password": "Ehsan1",
+      "uploadPhoto": "C:\\fakepath\\Black T Shirt.webp",
+      "agreetc": true,
+      "role": "Seller"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "",
+      "uploadPhoto": "ehsan.png",
+      "uploadUrl": "",
+      "Description": "",
+      "Mrp": "",
+      "dp": "",
+      "Status": ""
+    },
+    {
+      "id": 2,
+      "name": "",
+      "uploadPhoto": "ehsan.png",
+      "uploadUrl": "",
+      "Description": "",
+      "Mrp": "",
+      "dp": "",
+      "Status": ""
+    },
+    {
+      "id": 3,
+      "name": "",
+      "uploadPhoto": "ehsan.png",
+      "uploadUrl": "",
+      "Description": "",
+      "Mrp": "",
+      "dp": "",
+      "Status": ""
+    },
+    {
+      "id": 4,
+      "name": "",
+      "uploadPhoto": "ehsan.png",
+      "uploadUrl": "",
+      "Description": "",
+      "Mrp": "",
+      "dp": "",
+      "Status": ""
+    },
+    {
+      "id": 5,
+      "name": "",
+      "uploadPhoto": "ehsan.png",
+      "uploadUrl": "",
+      "Description": "",
+      "Mrp": "",
+      "dp": "",
+      "Status": ""
+    },
+    {
+      "id": 6,
+      "name": "",
+      "uploadPhoto": "ehsan.png",
+      "uploadUrl": "",
+      "Description": "",
+      "Mrp": "",
+      "dp": "",
+      "Status": ""
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 3,
+      "sellerId": 2,
+      "product": {
+        "id": 1,
+        "name": "",
+        "uploadPhoto": "ehsan.png",
+        "uploadUrl": "",
+        "Description": "",
+        "Mrp": "",
+        "dp": "",
+        "Status": ""
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "Full Address",
+        "addLine2": "Full Address",
+        "Country": "Pakistan",
+        "city": "lahore",
+        "state": "Punjab"
+      },
+      "contact": "030960389369",
+      "dateTime": "29/09/20"
+    }
+  ]
+}
