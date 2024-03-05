@@ -1,138 +1,204 @@
 {
   "user": [
     {
-      "name": "Ehsan Shah",
-      "PhnNumber": "123456789",
-      "age": "22",
-      "dob": "2002-04-29",
-      "email": "test@gmail.com",
-      "password": "159753",
-      "address": {
-        "addLine1": "District",
-        "addLine2": "Full Address",
-        "country": "Pakistan",
-        "city": "lahore",
-        "state": "Punjab"
-      },
-      "gender": "Male",
-      "uploadPhoto": "ehsan.png",
-      "aboutYou": "I am Programer",
-      "agreetc": true,
-      "role": "admin"
-    },
-    {
-      "id": "a79f",
-      "name": "ehsan",
+      "id": "1",
+      "name": "Ehsan",
       "age": 26,
       "dob": "1997-04-29",
       "email": "kehsan13@gmail.com",
       "gender": "Male",
       "address": {
         "id": 0,
-        "addLine1": "Street Mohala",
-        "addLine2": "Above Same",
+        "addLine1": "Handu Gujjran near Graveyard",
+        "addLine2": "39Db Tehsil Qaidabad District Khushab",
         "city": "Lahore",
-        "state": "..."
+        "state": "Punjab"
       },
       "phnNumber": "+923096038939",
-      "password": "Ehsan",
-      "uploadPhoto": "C:\\fakepath\\Black T Shirt.webp",
+      "password": "123456",
+      "uploadPhoto": "C:\\fakepath\\ehsn.png",
       "agreetc": true,
-      "role": "Seller"
+      "role": "admin"
     },
     {
-      "id": "8a04",
-      "name": "SyedEhsan",
+      "id": "2",
+      "name": "Syed",
       "age": 26,
       "dob": "1997-04-29",
-      "email": "ehsan@gmail.com",
+      "email": "syed@gmail.com",
       "gender": "Male",
       "address": {
         "id": 0,
-        "addLine1": "Street Lahore",
-        "addLine2": "House Lahore",
+        "addLine1": "Handu Gujjran near Graveyard",
+        "addLine2": "39Db Tehsil Qaidabad District Khushab",
         "city": "Lahore",
-        "state": "..."
+        "state": "Punjab"
       },
       "phnNumber": "+923096038939",
-      "password": "Ehsan1",
-      "uploadPhoto": "C:\\fakepath\\Black T Shirt.webp",
+      "password": "123456",
+      "uploadPhoto": "C:\\fakepath\\ehsn.png",
       "agreetc": true,
-      "role": "Seller"
+      "role": "admin"
+    },
+    {
+      "name": "Rehman",
+      "age": 22,
+      "dob": "2011-02-22",
+      "email": "sdk@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "karachi jauharabad",
+        "addLine2": "House No 6",
+        "city": "Karachi",
+        "state": "Sindh"
+      },
+      "phnNumber": "+923014785268",
+      "password": "sefncwoeimc",
+      "uploadPhoto": "C:\\fakepath\\WhatsApp Image 2024-01-19 at 3.58.02 PM.jpeg",
+      "role": "buyer",
+      "id": "bc29"
+    },
+    {
+      "name": "Saqib",
+      "age": 22,
+      "dob": "2003-02-02",
+      "email": "S@test.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "Lahore",
+        "addLine2": "Lahore",
+        "city": "Sialkot",
+        "state": "Punjab"
+      },
+      "phnNumber": "+923241138717",
+      "password": "123456",
+      "uploadPhoto": "C:\\fakepath\\WhatsApp Image 2024-01-19 at 3.58.02 PM.jpeg",
+      "agreetc": true,
+      "role": "Seller",
+      "id": "c73a"
     }
   ],
   "products": [
     {
-      "id": 1,
-      "name": "",
-      "uploadPhoto": "ehsan.png",
-      "uploadUrl": "",
-      "Description": "",
-      "Mrp": "",
-      "dp": "",
-      "Status": ""
+      "id": "1",
+      "name": "Ambassodor",
+      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+      "Mrp": "10000",
+      "dp": "7999",
+      "status": "publish"
     },
     {
-      "id": 2,
-      "name": "",
-      "uploadPhoto": "ehsan.png",
-      "uploadUrl": "",
-      "Description": "",
-      "Mrp": "",
-      "dp": "",
-      "Status": ""
+      "id": "2",
+      "name": "IPhone 15",
+      "uploadPhoto": "https://startuppakistan.com.pk/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-lineup-color-lineup-230912_big.jpg.large_.jpg",
+      "Description": "The innovative new design features back glass that has color infused throughout the material. A custom dual ion-exchange process for the glass, and an aerospace-grade aluminum enclosure, help make iPhone 15 incredibly durable. Dependably durable.",
+      "Mrp": "265,000",
+      "dp": "259,999",
+      "status": "publish"
     },
     {
-      "id": 3,
-      "name": "",
-      "uploadPhoto": "ehsan.png",
-      "uploadUrl": "",
-      "Description": "",
-      "Mrp": "",
-      "dp": "",
-      "Status": ""
+      "id": "3",
+      "name": "Ps5",
+      "uploadPhoto": "https://i.ytimg.com/vi_webp/eECNpQ67JRo/maxresdefault.webp",
+      "Description": "Powered by an eight-core AMD Zen 2 CPU and custom AMD Radeon GPU, the PS5 is offered in two models: with and without a 4K Blu-ray drive. Supporting a 120Hz video refresh, the PS5 is considerably more powerful than the PS4 and PS4 Pro.",
+      "Mrp": "180,000",
+      "dp": "176,999",
+      "status": "publish"
     },
     {
-      "id": 4,
-      "name": "",
-      "uploadPhoto": "ehsan.png",
-      "uploadUrl": "",
-      "Description": "",
-      "Mrp": "",
-      "dp": "",
-      "Status": ""
+      "id": "4",
+      "name": "Ambassodor",
+      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+      "Mrp": "10000",
+      "dp": "7999",
+      "status": "publish"
     },
     {
-      "id": 5,
-      "name": "",
-      "uploadPhoto": "ehsan.png",
-      "uploadUrl": "",
-      "Description": "",
-      "Mrp": "",
-      "dp": "",
-      "Status": ""
+      "id": "5",
+      "name": "Ambassodor",
+      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+      "Mrp": "10000",
+      "dp": "7999",
+      "status": "publish"
     },
     {
-      "id": 6,
-      "name": "",
-      "uploadPhoto": "ehsan.png",
-      "uploadUrl": "",
-      "Description": "",
-      "Mrp": "",
-      "dp": "",
-      "Status": ""
+      "id": "6",
+      "name": "Ambassodor",
+      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+      "Mrp": "1000",
+      "dp": "7999",
+      "status": "publish"
+    },
+    {
+      "id": "7",
+      "name": "Ambassodor",
+      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+      "Mrp": "10000",
+      "dp": "7999",
+      "status": "inactive"
+    },
+    {
+      "id": "8",
+      "name": "Ambassodor",
+      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+      "Mrp": "10000",
+      "dp": "7999",
+      "status": "inactive"
+    },
+    {
+      "id": "9",
+      "name": "Ambassodor",
+      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+      "Mrp": "10000",
+      "dp": "79999",
+      "status": "draft"
+    },
+    {
+      "id": "10",
+      "name": "Ambassodor",
+      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+      "Mrp": "10000",
+      "dp": "7999",
+      "status": "draft"
+    },
+    {
+      "id": "11",
+      "name": "Ambassodor",
+      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+      "Mrp": "10000",
+      "dp": "7999",
+      "status": "draft"
+    },
+    {
+      "id": "12",
+      "name": "Ambassodor",
+      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+      "Mrp": "10000",
+      "dp": "7999",
+      "status": "draft"
     }
   ],
   "orders": [
     {
-      "id": 1,
+      "id": "1",
       "userId": 3,
       "sellerId": 2,
       "product": {
         "id": 1,
         "name": "",
-        "uploadPhoto": "ehsan.png",
-        "uploadUrl": "",
+        "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
         "Description": "",
         "Mrp": "",
         "dp": "",
@@ -148,6 +214,98 @@
       },
       "contact": "030960389369",
       "dateTime": "29/09/20"
+    },
+    {
+      "id": 0,
+      "userId": "bc29",
+      "sellerId": 2,
+      "product": {
+        "id": "1",
+        "name": "Ambassodor",
+        "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+        "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+        "Mrp": "10000",
+        "dp": "7999",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "karachi jauharabad",
+        "addLine2": "House No 6",
+        "city": "Karachi",
+        "state": "Sindh"
+      },
+      "contact": "+923014785268",
+      "dateTime": "3/5/2024"
+    },
+    {
+      "id": 0,
+      "userId": "bc29",
+      "sellerId": 2,
+      "product": {
+        "id": "3",
+        "name": "Ambassodor",
+        "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+        "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+        "Mrp": "10000",
+        "dp": "7999",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "karachi jauharabad",
+        "addLine2": "House No 6",
+        "city": "Karachi",
+        "state": "Sindh"
+      },
+      "contact": "+923014785268",
+      "dateTime": "3/5/2024"
+    },
+    {
+      "id": 0,
+      "userId": "bc29",
+      "sellerId": 2,
+      "product": {
+        "id": "12",
+        "name": "Ambassodor",
+        "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+        "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+        "Mrp": "10000",
+        "dp": "7999",
+        "status": "draft"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "karachi jauharabad",
+        "addLine2": "House No 6",
+        "city": "Karachi",
+        "state": "Sindh"
+      },
+      "contact": "+923014785268",
+      "dateTime": "3/5/2024"
+    },
+    {
+      "id": 0,
+      "userId": "bc29",
+      "sellerId": 2,
+      "product": {
+        "id": "2",
+        "name": "IPhone 15",
+        "uploadPhoto": "https://startuppakistan.com.pk/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-lineup-color-lineup-230912_big.jpg.large_.jpg",
+        "Description": "The innovative new design features back glass that has color infused throughout the material. A custom dual ion-exchange process for the glass, and an aerospace-grade aluminum enclosure, help make iPhone 15 incredibly durable. Dependably durable.",
+        "Mrp": "265,000",
+        "dp": "259,999",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "karachi jauharabad",
+        "addLine2": "House No 6",
+        "city": "Karachi",
+        "state": "Sindh"
+      },
+      "contact": "+923014785268",
+      "dateTime": "3/5/2024"
     }
   ]
 }

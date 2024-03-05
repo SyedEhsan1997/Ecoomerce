@@ -148,6 +148,7 @@
               type="email"
               class="form-control"
               [(ngModel)]="signInFormValue.userEmail"
+              #userEmail="ngModel"
               name="userEmail"
               required
               email
@@ -159,6 +160,7 @@
               type="password"
               class="form-control"
               [(ngModel)]="signInFormValue.userPassword"
+              #userPassword="ngModel"
               name="userPassword"
               minlength="6"
               togglePassword

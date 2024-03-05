@@ -11,6 +11,13 @@ import { SellerDashboardComponent } from './customer/seller/seller-dashboard/sel
 import { BuyerDashboardComponent } from './customer/buyer/buyer-dashboard/buyer-dashboard.component';
 import { CheckoutComponent } from './customer/buyer/checkout/checkout.component';
 import { PageNotFoundComponent } from './shared/layouts/page-not-found/page-not-found.component';
+import {
+  AdminAuthGaurdLogin,
+  AdminAuthGaurdService,
+  BuyerAuthGaurdService,
+  SellerAuthGaurdService,
+  SellerBuyerAuthGuardLogin,
+} from './shared/services/auth-gaurd.service';
 
 export const routes: Routes = [
   { path: '', redirectTo: 'home', pathMatch: 'full' },
@@ -20,18 +27,21 @@ export const routes: Routes = [
   //admin
   {
     path: '',
+    canActivate: [AdminAuthGaurdLogin],
     children: [{ path: 'admin-login', component: AdminLoginComponent }],
   },
   {
     path: '',
+    canActivate: [AdminAuthGaurdService],
     children: [
       { path: 'admin-dashboard', component: AdminDashboardComponent },
       { path: 'admin/user', component: UserCrudComponent },
-      { path: 'admin//product', component: ProductComponent },
+      { path: 'admin/product', component: ProductComponent },
     ],
   },
   {
     path: '',
+    canActivate: [SellerBuyerAuthGuardLogin],
     children: [
       { path: 'sign-in', component: SigninSignupComponent },
       { path: 'sign-up', component: SigninSignupComponent },
@@ -39,6 +49,7 @@ export const routes: Routes = [
   },
   {
     path: '',
+    canActivate: [SellerAuthGaurdService],
     children: [
       { path: 'seller-dashboard', component: SellerDashboardComponent },
       { path: 'seller/product', component: ProductComponent },
@@ -46,6 +57,7 @@ export const routes: Routes = [
   },
   {
     path: '',
+    canActivate: [BuyerAuthGaurdService],
     children: [
       { path: 'buyer-dashboard', component: BuyerDashboardComponent },
       { path: 'checkout', component: CheckoutComponent },
