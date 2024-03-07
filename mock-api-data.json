@@ -54,7 +54,7 @@
         "state": "Sindh"
       },
       "phnNumber": "+923014785268",
-      "password": "sefncwoeimc",
+      "password": "123456",
       "uploadPhoto": "C:\\fakepath\\WhatsApp Image 2024-01-19 at 3.58.02 PM.jpeg",
       "role": "buyer",
       "id": "bc29"
@@ -82,111 +82,102 @@
   ],
   "products": [
     {
-      "id": "1",
-      "name": "Ambassodor",
-      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
-      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
-      "Mrp": "10000",
-      "dp": "7999",
-      "status": "publish"
+      "name": "Air Jordan 6",
+      "uploadPhoto": "https://cdn.sanity.io/images/d6wcctii/production/836fdcfed4811699db131ec2e320683072271caf-1070x760.jpg?w=1200&q=80&fit=clip&auto=format",
+      "Description": "Inspired by MJ's German sports car, the Air Jordan 6 evoked an essence of speed and class. Laden with elegant touches like a neoprene sleeve, a translucent rubber sole, and visible air—Tinker Hatfield's architectural instincts can be felt from sole to lace.",
+      "Mrp": "15000",
+      "dp": "13,999",
+      "status": "publish",
+      "id": "1"
     },
     {
-      "id": "2",
       "name": "IPhone 15",
       "uploadPhoto": "https://startuppakistan.com.pk/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-lineup-color-lineup-230912_big.jpg.large_.jpg",
       "Description": "The innovative new design features back glass that has color infused throughout the material. A custom dual ion-exchange process for the glass, and an aerospace-grade aluminum enclosure, help make iPhone 15 incredibly durable. Dependably durable.",
       "Mrp": "265,000",
       "dp": "259,999",
-      "status": "publish"
+      "status": "publish",
+      "id": "2"
     },
     {
-      "id": "3",
       "name": "Ps5",
       "uploadPhoto": "https://i.ytimg.com/vi_webp/eECNpQ67JRo/maxresdefault.webp",
       "Description": "Powered by an eight-core AMD Zen 2 CPU and custom AMD Radeon GPU, the PS5 is offered in two models: with and without a 4K Blu-ray drive. Supporting a 120Hz video refresh, the PS5 is considerably more powerful than the PS4 and PS4 Pro.",
       "Mrp": "180,000",
       "dp": "176,999",
+      "status": "publish",
+      "id": "3"
+    },
+    {
+      "id": "51d8",
+      "name": "Samsung Galaxy S22",
+      "uploadPhoto": "https://m-cdn.phonearena.com/images/article/153073-wide-two_1200/Samsung-Galaxy-S22-Android-14-update-arrives-in-the-US.jpg",
+      "Description": "Description. The Samsung Galaxy S22 specs are top-notch including a Snapdragon 8 Gen 1 chipset, 8GB RAM coupled with 128/256GB storage, and a 3700mAh battery with 25W charging speed. The phone sports a 6.1-inch Dynamic AMOLED display with an adaptive 120Hz refresh rate.",
+      "Mrp": "250,000",
+      "dp": "232,000",
       "status": "publish"
     },
     {
-      "id": "4",
-      "name": "Ambassodor",
-      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
-      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
-      "Mrp": "10000",
-      "dp": "7999",
-      "status": "publish"
+      "name": "Navy Grey Sweatshirt",
+      "uploadPhoto": "https://uniworthdress.com/uploads/product/TSS2304..jpg",
+      "Description": "A loose, long-sleeved, collarless pullover of soft, absorbent fabric, as cotton jersey, with close-fitting or elastic cuffs and sometimes a drawstring at the waist, commonly worn during athletic activity for warmth or to induce sweating. Also: sweat shirt.",
+      "Mrp": "4000",
+      "dp": "3799",
+      "status": "inactive",
+      "id": "996f"
     },
     {
-      "id": "5",
-      "name": "Ambassodor",
-      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
-      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
-      "Mrp": "10000",
-      "dp": "7999",
-      "status": "publish"
+      "name": "Men Slim Fit Casual Trousers",
+      "uploadPhoto": "https://www.myar.pk/wp-content/uploads/2020/07/MST18Charcoal.jpg",
+      "Description": "Trousers (British English), slacks, or pants (American English) are an item of clothing worn from the waist to anywhere between the knees and the ankles, covering both legs separately (rather than with cloth extending across both legs as in robes, skirts, dresses and kilts).",
+      "Mrp": "2500",
+      "dp": "2199",
+      "status": "inactive",
+      "id": "1ddd"
     },
     {
-      "id": "6",
-      "name": "Ambassodor",
-      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
-      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
-      "Mrp": "1000",
-      "dp": "7999",
-      "status": "publish"
+      "name": "Apple AirPods Pro 3",
+      "uploadPhoto": "https://m-cdn.phonearena.com/images/hub/274-wide-two_1200/Apple-AirPods-Pro-3-release-date-predictions-price-specs-and-must-know-features.jpg",
+      "Description": "Personalized Spatial Audio with dynamic head tracking places sounds all around you to create a three-dimensional listening experience for music, TV shows, movies, and more — immersing you in sounds from every direction so it feels like you're in your very own concert hall or theater.",
+      "Mrp": "60000 ",
+      "dp": "54,499 ",
+      "status": "publish",
+      "id": "b70e"
     },
     {
-      "id": "7",
-      "name": "Ambassodor",
-      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
-      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
-      "Mrp": "10000",
-      "dp": "7999",
+      "name": "(Ps5)Witcher 3 Dvd ",
+      "uploadPhoto": "https://collectorsedition.org/uploads/2014/06/The-Witcher-3-Wild-Hunt-Collectors-Edition3.jpg",
+      "Description": "The Witcher 3: Wild Hunt is an action role-playing game with a third-person perspective. Players control Geralt of Rivia, a monster slayer known as a Witcher. Geralt walks, runs, rolls and dodges, and (for the first time in the series) jumps, climbs and swims.",
+      "Mrp": "5000 ",
+      "dp": "3999 ",
+      "status": "publish",
+      "id": "4dc1"
+    },
+    {
+      "name": "Calvin Klein For Men",
+      "uploadPhoto": "https://static-01.daraz.pk/p/945d41739ff1ca6249fbf94482aafa49.jpg",
+      "Description": "A perfume is a liquid mixture used to emit a pleasant odour. It is formed from fragrant essential oils derived from plants and spices or synthetic aromatic compounds. Cosmetic fragrances applied to a person's body to emit a pleasant smell include perfume, cologne, and aftershave [1].",
+      "Mrp": "15,500 ",
+      "dp": "13,050 ",
+      "status": "inactive",
+      "id": "1d94"
+    },
+    {
+      "id": "8886",
+      "name": "Apple Watch Series 8",
+      "uploadPhoto": "https://www.apple.com/newsroom/images/product/watch/standard/Apple-Watch-S8-2up-hero-220907_Full-Bleed-Image.jpg.large.jpg",
+      "Description": "Apple Watch Series 8 is able to detect if you're in a severe car crash. When a crash is detected, Crash Detection can automatically connect you with emergency services, provide dispatchers with your location, and notify your emergency contacts.",
+      "Mrp": "125,000",
+      "dp": "119,999",
       "status": "inactive"
     },
     {
-      "id": "8",
-      "name": "Ambassodor",
-      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
-      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
-      "Mrp": "10000",
-      "dp": "7999",
-      "status": "inactive"
-    },
-    {
-      "id": "9",
-      "name": "Ambassodor",
-      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
-      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
-      "Mrp": "10000",
-      "dp": "79999",
-      "status": "draft"
-    },
-    {
-      "id": "10",
-      "name": "Ambassodor",
-      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
-      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
-      "Mrp": "10000",
-      "dp": "7999",
-      "status": "draft"
-    },
-    {
-      "id": "11",
-      "name": "Ambassodor",
-      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
-      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
-      "Mrp": "10000",
-      "dp": "7999",
-      "status": "draft"
-    },
-    {
-      "id": "12",
-      "name": "Ambassodor",
-      "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
-      "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
-      "Mrp": "10000",
-      "dp": "7999",
+      "id": "0ebb",
+      "name": "Samsung SmartWatch 6",
+      "uploadPhoto": "https://images.samsung.com/is/image/samsung/assets/sa_en/watches/galaxy-watch6-astro-edition/images/main-kv-mobile-720x800.jpg?$ORIGIN_JPG$",
+      "Description": "Regardless of which model you choose, you'll be able to enjoy enhanced features like improved sleep and wellness tracking, heart rate notifications, and the Galaxy watch series' largest screen yet. Plus, both models have returned to the classic rotating bezel design for simpler, faster navigation.",
+      "Mrp": "55,000",
+      "dp": "53,999",
       "status": "draft"
     }
   ],
@@ -216,7 +207,7 @@
       "dateTime": "29/09/20"
     },
     {
-      "id": 0,
+      "id": "0",
       "userId": "bc29",
       "sellerId": 2,
       "product": {
@@ -239,7 +230,7 @@
       "dateTime": "3/5/2024"
     },
     {
-      "id": 0,
+      "id": "0",
       "userId": "bc29",
       "sellerId": 2,
       "product": {
@@ -262,7 +253,7 @@
       "dateTime": "3/5/2024"
     },
     {
-      "id": 0,
+      "id": "0",
       "userId": "bc29",
       "sellerId": 2,
       "product": {
@@ -285,7 +276,7 @@
       "dateTime": "3/5/2024"
     },
     {
-      "id": 0,
+      "id": "0",
       "userId": "bc29",
       "sellerId": 2,
       "product": {
@@ -306,6 +297,167 @@
       },
       "contact": "+923014785268",
       "dateTime": "3/5/2024"
+    },
+    {
+      "id": "0",
+      "userId": "bc29",
+      "sellerId": 2,
+      "product": {
+        "id": "2",
+        "name": "IPhone 15",
+        "uploadPhoto": "https://startuppakistan.com.pk/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-lineup-color-lineup-230912_big.jpg.large_.jpg",
+        "Description": "The innovative new design features back glass that has color infused throughout the material. A custom dual ion-exchange process for the glass, and an aerospace-grade aluminum enclosure, help make iPhone 15 incredibly durable. Dependably durable.",
+        "Mrp": "265,000",
+        "dp": "259,999",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "karachi jauharabad",
+        "addLine2": "House No 6",
+        "city": "Karachi",
+        "state": "Sindh"
+      },
+      "contact": "+923014785268",
+      "dateTime": "3/6/2024"
+    },
+    {
+      "id": "0",
+      "userId": "bc29",
+      "sellerId": 2,
+      "product": {
+        "id": "2",
+        "name": "IPhone 15",
+        "uploadPhoto": "https://startuppakistan.com.pk/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-lineup-color-lineup-230912_big.jpg.large_.jpg",
+        "Description": "The innovative new design features back glass that has color infused throughout the material. A custom dual ion-exchange process for the glass, and an aerospace-grade aluminum enclosure, help make iPhone 15 incredibly durable. Dependably durable.",
+        "Mrp": "265,000",
+        "dp": "259,999",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "karachi jauharabad",
+        "addLine2": "House No 6",
+        "city": "Karachi",
+        "state": "Sindh"
+      },
+      "contact": "+923014785268",
+      "dateTime": "3/6/2024"
+    },
+    {
+      "id": "0",
+      "userId": "bc29",
+      "sellerId": 2,
+      "product": {
+        "id": "3",
+        "name": "Ps5",
+        "uploadPhoto": "https://i.ytimg.com/vi_webp/eECNpQ67JRo/maxresdefault.webp",
+        "Description": "Powered by an eight-core AMD Zen 2 CPU and custom AMD Radeon GPU, the PS5 is offered in two models: with and without a 4K Blu-ray drive. Supporting a 120Hz video refresh, the PS5 is considerably more powerful than the PS4 and PS4 Pro.",
+        "Mrp": "180,000",
+        "dp": "176,999",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "karachi jauharabad",
+        "addLine2": "House No 6",
+        "city": "Karachi",
+        "state": "Sindh"
+      },
+      "contact": "+923014785268",
+      "dateTime": "3/6/2024"
+    },
+    {
+      "id": "0",
+      "userId": "bc29",
+      "sellerId": 2,
+      "product": {
+        "id": "1",
+        "name": "Ambassodor",
+        "uploadPhoto": "https://www.bata.co.za/file/TNK_9794-01.jpg",
+        "Description": "The Ambassador shoes have a conservative 1930s profile with alternating bands of dark and light leather, adding a unique flair to your suit without drawing attention away from it. These can be customized/ altered at you request.",
+        "Mrp": "10000",
+        "dp": "7999",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "karachi jauharabad",
+        "addLine2": "House No 6",
+        "city": "Karachi",
+        "state": "Sindh"
+      },
+      "contact": "+923014785268",
+      "dateTime": "3/6/2024"
+    },
+    {
+      "id": 0,
+      "userId": "bc29",
+      "sellerId": 2,
+      "product": {
+        "id": "996f",
+        "name": "Navy Grey Sweatshirt",
+        "uploadPhoto": "https://uniworthdress.com/uploads/product/TSS2304..jpg",
+        "Description": "A loose, long-sleeved, collarless pullover of soft, absorbent fabric, as cotton jersey, with close-fitting or elastic cuffs and sometimes a drawstring at the waist, commonly worn during athletic activity for warmth or to induce sweating. Also: sweat shirt.",
+        "Mrp": "4000",
+        "dp": "3799",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "karachi jauharabad",
+        "addLine2": "House No 6",
+        "city": "Karachi",
+        "state": "Sindh"
+      },
+      "contact": "+923014785268",
+      "dateTime": "3/7/2024"
+    },
+    {
+      "id": 0,
+      "userId": "bc29",
+      "sellerId": 2,
+      "product": {
+        "id": "1ddd",
+        "name": "Men Slim Fit Casual Trousers",
+        "uploadPhoto": "https://www.myar.pk/wp-content/uploads/2020/07/MST18Charcoal.jpg",
+        "Description": "Trousers (British English), slacks, or pants (American English) are an item of clothing worn from the waist to anywhere between the knees and the ankles, covering both legs separately (rather than with cloth extending across both legs as in robes, skirts, dresses and kilts).",
+        "Mrp": "2500",
+        "dp": "2199",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "karachi jauharabad",
+        "addLine2": "House No 6",
+        "city": "Karachi",
+        "state": "Sindh"
+      },
+      "contact": "+923014785268",
+      "dateTime": "3/7/2024"
+    },
+    {
+      "id": 0,
+      "userId": "bc29",
+      "sellerId": 2,
+      "product": {
+        "id": "1",
+        "name": "Air Jordan 6",
+        "uploadPhoto": "https://cdn.sanity.io/images/d6wcctii/production/836fdcfed4811699db131ec2e320683072271caf-1070x760.jpg?w=1200&q=80&fit=clip&auto=format",
+        "Description": "Inspired by MJ's German sports car, the Air Jordan 6 evoked an essence of speed and class. Laden with elegant touches like a neoprene sleeve, a translucent rubber sole, and visible air—Tinker Hatfield's architectural instincts can be felt from sole to lace.",
+        "Mrp": "15000",
+        "dp": "13,999",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "karachi jauharabad",
+        "addLine2": "House No 6",
+        "city": "Karachi",
+        "state": "Sindh"
+      },
+      "contact": "+923014785268",
+      "dateTime": "3/7/2024"
     }
   ]
 }

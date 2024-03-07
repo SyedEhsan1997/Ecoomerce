@@ -34,7 +34,7 @@ export class CheckoutComponent implements OnInit {
   }
 
   async productDetail() {
-    console.log();
+    // console.log();
     const id = await this.addParams();
 
     this.customerService.individualProduct(this.single_product_id).subscribe(
@@ -83,9 +83,11 @@ export class CheckoutComponent implements OnInit {
       contact: this.user_contact_no,
       dateTime: new Date().toLocaleDateString(),
     };
-    console.log('Place Order DTL', this.order_dto);
+
     this.customerService.insertNewOrder(this.order_dto).subscribe(
       (data) => {
+        // Order placed successfully, show alert
+        alert('Your order is delivered!');
         this.router.navigate(['/buyer-dashboard']);
       },
       (error) => {
@@ -93,6 +95,7 @@ export class CheckoutComponent implements OnInit {
       }
     );
   }
+
   addParams() {
     this.route.queryParams.subscribe((params) => {
       this.single_product_id = params['productid'];
