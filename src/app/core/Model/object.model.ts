@@ -26,7 +26,7 @@ export class Product {
   name!: string;
   uploadPhoto!: string;
   Description!: string;
-  mrp!: number;
+  Mrp!: number;
   dp!: number;
   status!: boolean;
 }

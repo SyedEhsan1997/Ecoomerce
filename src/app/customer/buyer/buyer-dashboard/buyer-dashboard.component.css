@@ -1,0 +1,20 @@
+.product-desc {
+  margin-top: -2rem; /* Adjust the margin to move the description text up */
+}
+
+.card img {
+  height: 250px;
+  object-fit: cover;
+}
+
+.card-body > .product-desc {
+  height: 9rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-body > .card-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

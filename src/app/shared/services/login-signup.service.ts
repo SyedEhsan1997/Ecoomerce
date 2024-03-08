@@ -7,6 +7,9 @@ import { Observable } from 'rxjs';
   providedIn: 'root',
 })
 export class LoginSignupService {
+  getAllUsers() {
+    throw new Error('Method not implemented.');
+  }
   public login_url = 'http://localhost:3000';
   public reg_url = 'http://localhost:3000';
 
@@ -14,7 +17,7 @@ export class LoginSignupService {
 
   authLogin(user_name: any, password: any): Observable<any> {
     return this.apiService.get(
-      this.login_url + '/users?email=' + user_name + '&password=' + password
+      this.login_url + '/user?email=' + user_name + '&password=' + password
     );
   }
 
@@ -25,12 +28,7 @@ export class LoginSignupService {
 
   adminLogin(user_name: any, password: any): Observable<any> {
     return this.apiService.get(
-      this.login_url +
-        '/user?email=' +
-        user_name +
-        '&password=' +
-        password +
-        '$role=admin'
+      `${this.login_url}/user?email=${user_name}&password=${password}&role=admin`
     );
   }
 }

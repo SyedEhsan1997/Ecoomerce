@@ -1,8 +1,10 @@
-<app-header></app-header>
+<!-- <app-header></app-header>
 <router-outlet></router-outlet>
+<app-footer></app-footer> -->
+
+<app-header></app-header>
+<main class="container" [ngStyle]="{ 'min-heigth.px': footerMaxHeigth }">
+  <router-outlet></router-outlet>
+</main>
+<hr class="featurette-divider mt-3" />
 <app-footer></app-footer>
-
-
-
-
-
